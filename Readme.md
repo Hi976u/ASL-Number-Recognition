@@ -4,4 +4,5 @@ Creating an American Sign Language (ASL) recognition system involves using compu
 # Libraries 
 Open-cv(version:- 4.5.5)
 you can use following command for install Opencv
+
 pip install opencv-python==4.5.5
