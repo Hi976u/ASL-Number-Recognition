@@ -1,5 +1,7 @@
 # ASL-Number-Recognition
-Creating an American Sign Language (ASL) recognition system involves using computer vision and machine learning techniques to interpret and understand sign language gestures. The gesture includes American Sign Language Numbers. from 0-9
+Creating an American Sign Language (ASL) recognition system involves leveraging computer vision and machine learning techniques to interpret and understand sign language gestures, specifically focusing on ASL numbers from 0 to 9. The system should be capable of visually recognizing these gestures and converting them into spoken numbers. This typically involves detecting hand gestures, tracking hand movements and positions, recognizing specific ASL gestures associated with numbers, and integrating text-to-speech capabilities to audibly articulate the recognized numbers.
+
+To run this project, you need to download the script named "1-9.py" and ensure that you have installed all the required libraries mentioned in the script. These libraries typically include computer vision frameworks like OpenCV and machine learning libraries like scikit-learn or TensorFlow/Keras, depending on the implementation details of your ASL recognition system.
 
 # Libraries 
 Open-cv(version:- 4.5.5)
